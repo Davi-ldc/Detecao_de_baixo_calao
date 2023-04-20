@@ -5,7 +5,7 @@ Esse modelo tem como objetivo identificar palavrões ultilizando tecnicas de mac
 
 
 ## 2. Motivation
-Um cara MTTT FD me pedio 
+Um cara MTTT FD me pediu
 
 ## 3. Success metrics
 O modelo acertou 98 porcento das frases de teste (ultilizando 20 porcento do dataset com 14 mil frases)
