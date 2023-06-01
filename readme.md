@@ -5,7 +5,7 @@ Esse modelo tem como objetivo identificar palavrões ultilizando tecnicas de mac
 
 
 ## 2. Motivation
-Um cara MTTT FD me pediu
+praticar
 
 ## 3. Success metrics
 O modelo acertou 98 porcento das frases de teste (ultilizando 20 porcento do dataset com 14 mil frases)
@@ -69,11 +69,10 @@ Por ultilizar tecnicas de ML e proprocessamento simples o modelo tem um baixo cu
 Como o modelo foi treinado com dados de um regex ele não identifica palavras de duplo sentido. Nesse caso para evitar falsos positivos ele tende a prever "0"
 Para se resolver isso basta ultilizar o feedback de usuarios
 
-## 7. Appendix
 
 ### 7.1. Alternatives
 
-Deve-se considerar a ultilização de um regex 
+Deve-se considerar a ultilização de um regex, mas não pega duplo sentido
 
 ### 7.2. Experiment Results
 
